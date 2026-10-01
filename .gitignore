@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+!.vscode/extensions.json
+
+# Wi-Fi credentials and local config (see README)
+include/secrets.h
+
+.DS_Store
+__pycache__/
